@@ -1,4 +1,5 @@
 # Encrypted credentials store, auto generated, do not commit secret keys
+# Seriusly, DONT TOUCH THIS...
 
 ENCRYPTED_CREDENTIALS = {
     "username": "root",
