@@ -1,4 +1,4 @@
-## duohnson/deployer-debian-apt
+## duohnson/hardening-debian-apt
 
 Automates remote hardening of Debian/Ubuntu systems via Fabric, designed
 specifically for hosts that use `apt-get`.
